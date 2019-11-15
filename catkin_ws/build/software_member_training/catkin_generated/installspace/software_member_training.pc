@@ -1,0 +1,8 @@
+prefix=/home/raylei/catkin_ws/install
+
+Name: software_member_training
+Description: Description of software_member_training
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/raylei/catkin_ws/install/lib 
+Requires: 

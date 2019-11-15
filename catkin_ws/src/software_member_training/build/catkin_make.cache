@@ -1,2 +1,0 @@
-
--DCATKIN_DEVEL_PREFIX=/home/raylei/Github/UWRT_Software_member_training/catkin_ws/src/software_member_training/devel -DCMAKE_INSTALL_PREFIX=/home/raylei/Github/UWRT_Software_member_training/catkin_ws/src/software_member_training/install -G Unix Makefiles

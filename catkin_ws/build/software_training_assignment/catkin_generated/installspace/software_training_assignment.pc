@@ -1,8 +1,0 @@
-prefix=/home/raylei/catkin_ws/install
-
-Name: software_training_assignment
-Description: Description of software_training_assignment
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/raylei/catkin_ws/install/lib 
-Requires: 
